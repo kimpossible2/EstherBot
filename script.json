@@ -62,7 +62,18 @@
     "FALLING": "She knows it's all in her head but she physically gets shooting pains up her legs and spine when she's near a ledge or on a bridge. It even happens watching others in a similar situation.",
     "CAREER": "She's has taken a very non-traditional path crafting her career. Check out EMPLOYERS, INDUSTRIES, ROLES, SPECIALTIES, SKILLS to learn the specifics.",
     "EMPLOYERS": "Kim's worked for MICROSOFT, HARDROCK, NTERACTIVE, SUNTERRA, BAPORT, XOS, PHOENIX & FIS. Not in that order.", 
-    "MICROSOFT": "Kim worked twice for the 800lb gorilla. From 2000-2006 and from 2008-2010. She did a variety of roles BDM, SOLUTION SPECIALIST, DEVELOPER Evangelism, and EVENT Marketing. She did get to work with BILLG three times & STEVEB twice.",
+    "MICROSOFT": "Kim worked twice for the 800lb gorilla. From 2000-2006 and from 2008-2010. She did a variety of roles BDM, SOLUTION Specialist, DEVELOPER Evangelism, and EVENT Marketing. She did get to work with BILLG three times & STEVEB twice.",
+    "BDM": "Business Development Manager. She learned how to play golf, build CXO relationships and sell software. Alot of it. See SOLUTION Specialist.",
+    "SOLUTION":"The Solution Specialist was a startup group in MICROSFOT of which Kim was one of the initial 100 people in the role. Her focus was on DATABASES, developer TOOLS, SERVERS and DESKTOP applications. About 800 different products. It was alot like drinking from a firehose.",
+    "DATABASES": "She's had experience in mainframes (FIS), SqlServer (BAPORT & MICROSOFT), Oracle (SUNTERRA, XOS & HARDROCK), mySql (NTERACTIVE) and even the little ones like Access (puke). She's a database freak.",
+    "TOOLS" : "She's very handy with a powertools. She's also very proficient in Visual Studio, Adobe's Creative Cloud products, CRM, Emailm social and marketing automation platforms. Learning and knowing new tools is kind of her thing.",
+    "SERVERS": "Though she worked for HARDROCK, she never served food. She did however work on mainframes (FIS), Unix (PHOENIX), Linux Apache (XOS), Windows (MICROSOFT). If it boots up, she's worked on it.",
+    "LANGUAGES" : "She speaks English, C++, Javascript and Visual Basic. She can also hack her way through other computer languages too. She also pretends to know French (four years in SCHOOL) and a few phrases in Japanese. She even recited the Apostles Creed in Bulgarian.",
+    "DESKTOP": 
+    "DEVELOPER":
+    "EVENT" :
+    "BILLG" :
+    "STEVEB" :
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KimBot is back."
 }
