@@ -35,7 +35,7 @@
     "HI!": "Ok, here's a pro tip: you'll need to follow my script and only use keywords. Say HELLO to get started.",
     "HEY": "Ok, here's a pro tip: you'll need to follow my script and only use keywords. Say HELLO to get started.",
     "HEY!": "Ok, here's a pro tip: you'll need to follow my script and only use keywords. Say HELLO to get started.",
-    "HELLO": "Awesome Sauce! Let's get started. 🙌  Remember this: I only respond to keywords that I give you. Chances are you want to dive into her EDUCATION, CAREER, TRAVEL or PERSONAL. Type in a KEYWORD (ALL CAPS) and Voila! – the mystery of Kim will be revealed. 🤖",
+    "HELLO": "Fantastic! Let's get started. 🙌  Remember this: I only respond to KEYWORDS that I give you. Chances are you want to dive into her EMPLOYERS, HOBBIES,EDUCATION, CAREER, TRAVEL or PERSONAL. Type in a KEYWORD (ALL CAPS) and Voila! – the mystery of Kim will be revealed. 🤖",
     "KEYWORDS": "A few common questions: EMPLOYERS, SPECIALITIES, RESUME (a pdf version), HOBBIES, FEARS, RANDOM FACTS, SIDE PROJECTS",
     "KEYWORD": "A few common questions: EMPLOYERS, SPECIALITIES, RESUME (a pdf version), HOBBIES, RANDOM FACTS, SIDE PROJECTS",
     "PHOTO": "This is Kim and her photography which is one of her HOBBIES: http://smu.gs/1To85cQ",
@@ -53,7 +53,7 @@
     "UK": "Gotcha!  UK as in the United Kingdom. She's been all over it.",
     "YES": "Woo hoo!",
     "SEX": "Female. OOOOH!!! You mean THAT? I'm sorry but you are talking to the wrong bot if that's what you're looking for. Nice try.",
-    "FUCK": "Fornication Under Consent of the King. No F-Bombs, Please. ",
+    "FUCK": "Fornication Under Consent of the King. No F-Bombs, please. ",
     "FUCK YOU": "That would be a highly unnatural act. You'd probably get Baker Acted if you tried. I'm a bot, not a blowup doll.",
     "I LOVE YOU": "<blush> It's probably too soon.",
     "HOBBIES": "She likes sunsets, unicorns and rainbows. Actually, she'd rather spend her time taking pictures or reading a good book. You can check out her pics here http://smu.gs/1To85cQ",
@@ -137,6 +137,14 @@
     "JACK RUSSELL" : "She has had two Jack Russell mixed dogs: one with a BEAGLE and one with a chihuahua. Bandit is her current doggy muse. See him sing Bad Romance from Lady Gaga http://bit.ly/1Tt0U3h .",
     "BEAGLE": "Though she has loved all of her dogs, her favorite has been Jack Jack, the JACK RUSSELL and beagle mix. She was devasted when he died from an aggressive cancer. "
     "CATS": "She has only had three cats. She would have had more except that her SPOUSE doesn't like them too much. Yay, well....not at all.",
+    "CAT": "She has only had three cats. She would have had more except that her SPOUSE doesn't like them too much. Yay, well....not at all.",
+    "BUNNIES": "Ever the one to enrich her KIDS lives, she let them have a rabbit named PJ Funnybunny after a children's book. PJ lived a long life for a rabbit. More than 9 years.",
+    "BUNNY": "Ever the one to enrich her KIDS lives, she let them have a rabbit named PJ Funnybunny after a children's book. PJ lived a long life for a rabbit. More than 9 years.",
+    "RABBIT": "Ever the one to enrich her KIDS lives, she let them have a rabbit named PJ Funnybunny after a children's book. PJ lived a long life for a rabbit. More than 9 years.",
+    "SKUNKS": "She bought Stinker for her SPOUSE as a gift. Stinker used a litter box and liked french fries.Note to all, skunks are nocturnal and like to roam at night. They do not make good pets. ",
+    "SKUNK": "She bought Stinker for her SPOUSE as a gift. Stinker used a litter box and liked french fries.Note to all, skunks are nocturnal and like to roam at night. They do not make good pets. ",
+    "SNAKES": "The snakes belonged to her SPOUSE. One was a boa constrictor and the other a ball python. The boa was hand fed and was allowed to slither around the house. He would often go missing for months at a time. He would show back up when he was hungry.",
+    "TRAVEL": "Kim absolutely loves to travel and enjoys taking pictures where she has been. You can see some of these locations here http://smu.gs/1To85cQ . ",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KimBot is back."
 }
